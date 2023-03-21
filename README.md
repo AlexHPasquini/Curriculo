@@ -22,4 +22,11 @@
 
 - Ensino Superior - Analista de Desenvolvimento de Sistemas - UNIMAR (Cursando Periodo Noturno)
 
+## Cursos
+
+---
+
+- Manutenção de Microcomputadores - 48 Horas
+
+- Integrado Ambiente Windows - 264 Horas
 
