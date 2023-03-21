@@ -1,5 +1,7 @@
 ## Formação
 
+---
+
 -  Segundo Grau Completo
 
 - ETEC Antônio Devisate - Técnico em Administração
