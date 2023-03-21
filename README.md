@@ -1,7 +1,3 @@
-# Alex Henrique Pasquini
-
----
-
 ## Formação
 
 -  Segundo Grau Completo
